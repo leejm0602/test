@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main() {
-  
-  int x;
-  printf("%s", "안녕");
+  printf("hello world\n");
   
   return 0;
 }
